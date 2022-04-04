@@ -56,15 +56,22 @@
 		885BCBF727FB28CD0052925D /* UIVCLifeCycle */ = {
 			isa = PBXGroup;
 			children = (
-				885BCBF827FB28CD0052925D /* AppDelegate.swift */,
-				885BCBFA27FB28CD0052925D /* SceneDelegate.swift */,
+				885BCC0C27FB5F2E0052925D /* Application */,
 				885BCBFC27FB28CD0052925D /* ViewController.swift */,
-				885BCBFE27FB28CD0052925D /* Main.storyboard */,
 				885BCC0127FB28CE0052925D /* Assets.xcassets */,
 				885BCC0327FB28CE0052925D /* LaunchScreen.storyboard */,
 				885BCC0627FB28CE0052925D /* Info.plist */,
 			);
 			path = UIVCLifeCycle;
+			sourceTree = "<group>";
+		};
+		885BCC0C27FB5F2E0052925D /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				885BCBF827FB28CD0052925D /* AppDelegate.swift */,
+				885BCBFA27FB28CD0052925D /* SceneDelegate.swift */,
+			);
+			path = Application;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
